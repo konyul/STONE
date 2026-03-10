@@ -202,4 +202,5 @@ If you find the **STONE dataset** useful in your research, please consider citin
 
 The **STONE dataset** is contributed by **Konyul Park, Daehun Kim, Jiyong Oh, Seunghoon Yu, Junseo Park, Jaehyun Park, Hongjae Shin, Hyungchan Cho, Jungho Kim, and Jun Won Choi**.
 
-We sincerely thank the maintainers of the following open-source projects that enabled the development of the **STONE dataset**: **MMDetection3D** by **OpenMMLab**.
+We sincerely thank the maintainers of the following open-source projects that enabled the development of the **STONE dataset**:  
+[**MMDetection3D**](https://github.com/open-mmlab/mmdetection3d) by **OpenMMLab**.
