@@ -73,8 +73,8 @@ Key features of **STONE** include:
 - **Framework**: ROS 2 Humble
 
 **Sensors**
-- **360° Rotating LiDAR**: **1 × Hesai OT128**
-- **Multi-view RGB Cameras**: **6 × Basler ACE2 2A1920-51gcPRO**
-- **4D Imaging Radars**: **3 × Continental ARS 548 RDI**
-- **GNSS/INS**: **NovAtel PIM222A dual-antenna GNSS/INS**
-- **IMU**: **EPSON G366P**
+- **360° Rotating LiDAR**: 1 × Hesai OT128
+- **Multi-view RGB Cameras**: 6 × Basler ACE2 2A1920-51gcPRO
+- **4D Imaging Radars**: 3 × Continental ARS 548 RDI
+- **GNSS/INS**: NovAtel PIM222A dual-antenna GNSS/INS
+- **IMU**: EPSON G366P
