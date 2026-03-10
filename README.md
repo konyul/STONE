@@ -58,3 +58,23 @@ Key features of **STONE** include:
 - **Diverse environments and conditions**, including grasslands, farmlands, construction sites, lakes, and both day and night scenarios
 - **Geometry-aware labeling** based on terrain attributes such as slope, elevation, and roughness
 - **Benchmark for voxel-level 3D traversability prediction** with single-modal and multi-modal baselines
+
+<br>
+
+## 🤖 Robot Platform & Sensor Setup
+
+<p align="center">
+<img src="assets/images/robot_setup.png" width="800">
+</p>
+
+**Platform**
+- **UGV**: Bunker Pro
+- **Operating System**: Ubuntu 22.04
+- **Framework**: ROS 2 Humble
+
+**Sensors**
+- **360° Rotating LiDAR**: **1 × Hesai OT128**
+- **Multi-view RGB Cameras**: **6 × Basler ACE2 2A1920-51gcPRO**
+- **4D Imaging Radars**: **3 × Continental ARS 548 RDI**
+- **GNSS/INS**: **NovAtel PIM222A dual-antenna GNSS/INS**
+- **IMU**: **EPSON G366P**
