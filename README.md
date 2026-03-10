@@ -105,5 +105,44 @@ Ground-truth labels are provided as **`labels.npz`** files.
 
 **Dataset Structure**
 - The dataset structure follows the conventions of [**nuScenes**](https://www.nuscenes.org/) and [**Occ3D-nuScenes**](https://github.com/Tsinghua-MARS-Lab/Occ3D).
+- The **4D radar data** are provided in **ROS bag format (`.bag`)**.
 - The hierarchy of folder is described below:
 
+STONE_Dataset
+│
+├── gts
+│   └── [scene_name]
+│       └── [frame_token]
+│           └── labels.npz
+│
+├── samples
+│   ├── CAM_BACK
+│   │   └── n001-2025-08-22-07-14-16+0900__CAM_BACK__1755846856289490.jpg
+│   ├── CAM_BACK_LEFT
+│   │   └── ...
+│   ├── CAM_BACK_RIGHT
+│   │   └── ...
+│   ├── CAM_FRONT
+│   │   └── ...
+│   ├── CAM_FRONT_LEFT
+│   │   └── ...
+│   ├── CAM_FRONT_RIGHT
+│   │   └── ...
+│   └── LIDAR_TOP
+│       └── n001-2025-08-22-07-14-16+0900__LIDAR_TOP__1755846856289490.pcd.bin
+│
+└── v1.0-trainval
+    ├── attribute.json
+    ├── calibrated_sensor.json
+    ├── category.json
+    ├── ego_pose.json
+    ├── instance.json
+    ├── lidarseg.json
+    ├── log.json
+    ├── map.json
+    ├── sample.json
+    ├── sample_annotation.json
+    ├── sample_data.json
+    ├── scene.json
+    ├── sensor.json
+    └── visibility.json
