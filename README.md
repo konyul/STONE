@@ -180,3 +180,17 @@ For more details, please refer to:
 
 - https://creativecommons.org/licenses/by-nc-nd/4.0/
 - https://www.apache.org/licenses/LICENSE-2.0
+<br>
+
+## 📑 Citation
+
+If you find the **STONE dataset** useful in your research, please consider citing our paper:
+
+```bibtex
+@inproceedings{park2026stone,
+  title={STONE: A Scalable Multi-Modal Surround-View 3D Traversability Dataset for Off-Road Robot Navigation},
+  author={Park, Konyul and Kim, Daehun and Oh, Jiyong and Yu, Seunghoon and Park, Junseo and Park, Jaehyun and Shin, Hongjae and Cho, Hyungchan and Kim, Jungho and Choi, Jun Won},
+  booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2026}
+}
+'''
