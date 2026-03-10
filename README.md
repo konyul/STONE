@@ -193,4 +193,5 @@ If you find the **STONE dataset** useful in your research, please consider citin
   booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
   year={2026}
 }
+
 '''
