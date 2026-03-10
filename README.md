@@ -85,6 +85,7 @@ Key features of **STONE** include:
 The STONE dataset provides voxel-level 3D traversability annotations.
 
 **Traversability classes**
+
 The dataset contains **4 classes**:
 
 | Class ID | Label |
