@@ -164,6 +164,11 @@ The download link will be provided after approval.
 
 ## 📜 License
 
+<p>
+<img src="https://img.shields.io/badge/Dataset%20License-CC%20BY--NC--ND%204.0-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Code%20License-Apache%202.0-blue?style=for-the-badge">
+</p>
+
 The **STONE dataset** is published under the **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
 
 All **codes in this repository** are released under the **Apache License 2.0**.
