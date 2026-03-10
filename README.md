@@ -194,4 +194,3 @@ If you find the **STONE dataset** useful in your research, please consider citin
   year={2026}
 }
 
-'''
