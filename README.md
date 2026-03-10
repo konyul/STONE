@@ -159,3 +159,19 @@ The download link will be provided after approval.
 
 - Dataset: Coming Soon
 - Radar ROS bags: Coming Soon
+
+<br>
+
+## 📜 License
+
+The **STONE dataset** is published under the **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+
+All **codes in this repository** are released under the **Apache License 2.0**.
+
+Under the **CC BY-NC-ND 4.0 license**, the dataset may be used for **non-commercial research purposes only**.  
+Users must give appropriate credit to the original authors when using the dataset.
+
+For more details, please refer to:
+
+- https://creativecommons.org/licenses/by-nc-nd/4.0/
+- https://www.apache.org/licenses/LICENSE-2.0
