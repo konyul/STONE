@@ -95,6 +95,7 @@ The dataset contains **4 classes**:
 | 3 | Non-Traversable |
 
 Ground-truth labels are provided as **`labels.npz`** files.
+
 **Voxel configuration**
 
 - **Voxel size:** `[0.2 m, 0.2 m, 0.2 m]`
