@@ -103,3 +103,7 @@ Ground-truth labels are provided as **`labels.npz`** files.
 - **Range:** `[-25.6 m, -25.6 m, -2.0 m, 25.6 m, 25.6 m, 4.4 m]`
 - **Volume size:** `[256, 256, 32]`
 
+**Dataset Structure**
+- The dataset structure follows the conventions of [**nuScenes**](https://www.nuscenes.org/) and [**Occ3D-nuScenes**](https://github.com/Tsinghua-MARS-Lab/Occ3D).
+- The hierarchy of folder is described below:
+
