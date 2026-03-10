@@ -200,7 +200,7 @@ If you find the **STONE dataset** useful in your research, please consider citin
 
 ## 🙏 Acknowledgement
 
-The **STONE dataset** is contributed by [**Konyul Park**](https://github.com/konyul), [**Daehun Kim**](https://github.com/daehunkim1029), [**Jiyong Oh**](https://github.com/IamJiyong), [**Seunghoon Yu**](https://github.com/SeunghoonYu), [**Junseo Park**](https://github.com/jspark5638), [**Jaehyun Park**](https://github.com/detxter-jvb), **Hongjae Shin**, [**Hyungchan Cho**](https://github.com/chan-ing), [**Jungho Kim**](https://github.com/SPA-junghokim), and [**Jun Won Choi**](https://adr.snu.ac.kr/faculty).
+The **STONE dataset** is contributed by [**Konyul Park**](https://github.com/konyul), [**Daehun Kim**](https://github.com/daehunkim1029), [**Jiyong Oh**](https://github.com/IamJiyong), [**Seunghoon Yu**](https://github.com/SeunghoonYu), [**Junseo Park**](https://github.com/jspark5638), [**Jaehyun Park**](https://github.com/detxter-jvb), [**Hongjae Shin**](https://github.com/HongjaeShin) , [**Hyungchan Cho**](https://github.com/chan-ing), [**Jungho Kim**](https://github.com/SPA-junghokim), and [**Jun Won Choi**](https://adr.snu.ac.kr/faculty).
 
 We sincerely thank the maintainers of the following open-source projects that enabled the development of the **STONE dataset**:  
 [**MMDetection3D**](https://github.com/open-mmlab/mmdetection3d) by **OpenMMLab**.
