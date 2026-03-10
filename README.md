@@ -78,3 +78,26 @@ Key features of **STONE** include:
 - **4D Imaging Radars**: 3 × Continental ARS 548 RDI
 - **GNSS/INS**: NovAtel PIM222A dual-antenna GNSS/INS
 - **IMU**: EPSON G366P
+
+<br>
+
+## 📊 Dataset
+The STONE dataset provides voxel-level 3D traversability annotations.
+
+**Traversability classes**
+The dataset contains **4 classes**:
+
+| Class ID | Label |
+|--------|--------|
+| 0 | Free |
+| 1 | Traversable |
+| 2 | Potentially Traversable |
+| 3 | Non-Traversable |
+
+Ground-truth labels are provided as **`labels.npz`** files.
+**Voxel configuration**
+
+- **Voxel size:** `[0.2 m, 0.2 m, 0.2 m]`
+- **Range:** `[-25.6 m, -25.6 m, -2.0 m, 25.6 m, 25.6 m, 4.4 m]`
+- **Volume size:** `[256, 256, 32]`
+
