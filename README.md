@@ -1,9 +1,6 @@
 <div align="center">
 
-<h1>
-  <img src="assets/images/STONE_dataset_logo.png" alt="STONE Logo" width="70" valign="middle">
-  STONE Dataset
-</h1>
+# STONE Dataset
 
 ### A Scalable Multi-Modal Surround-View 3D Traversability Dataset  
 ### for Off-Road Robot Navigation
@@ -11,7 +8,9 @@
 </div>
 
 <p align="center">
-<img src="assets/images/teaser.png" width="400">
+  <img src="assets/images/STONE_dataset_logo.png" width="180" alt="STONE Logo">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/teaser.png" width="420" alt="STONE Teaser">
 </p>
 
 <p align="center">
