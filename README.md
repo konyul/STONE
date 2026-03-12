@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="assets/images/STONE_dataset_logo.png" alt="STONE Logo" width="48" valign="middle">
+  <img src="assets/images/STONE_dataset_logo.png" alt="STONE Logo" width="70" valign="middle">
   STONE Dataset
 </h1>
 
