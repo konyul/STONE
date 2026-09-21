@@ -103,9 +103,9 @@ Ground-truth labels are provided as **`labels.npz`** files.
 
 **Voxel configuration**
 
-- **Voxel size:** `[0.2 m, 0.2 m, 0.2 m]`
-- **Range:** `[-25.6 m, -25.6 m, -2.0 m, 25.6 m, 25.6 m, 4.4 m]`
-- **Volume size:** `[256, 256, 32]`
+- **Voxel size:** `[0.4 m, 0.4 m, 0.4 m]`
+- **Range:** `[-40.0 m, -40.0 m, -1.0 m, 40.0 m, 40.0 m, 5.4 m]`
+- **Volume size:** `[200, 200, 16]`
 
 **Dataset Structure**
 - The dataset structure follows the conventions of [**nuScenes**](https://www.nuscenes.org/) and [**Occ3D-nuScenes**](https://github.com/Tsinghua-MARS-Lab/Occ3D).
