@@ -156,7 +156,7 @@ STONE_Dataset
 
 ## 📥 Download
 
-- Dataset: [Google Drive Zip] (https://drive.google.com/file/d/1LdzE-BqZeEr2Vc9_z1CfiY5IjdqvX_CN/view)
+- Dataset: [Google Drive Zip](https://drive.google.com/file/d/1LdzE-BqZeEr2Vc9_z1CfiY5IjdqvX_CN/view)
 - ROS bags: [Google Drive ROS bags](https://drive.google.com/drive/folders/1Ts3MivhAs43_T71oScamSo6h3-s4nred?usp=drive_link) 
 
 <br>
