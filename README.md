@@ -49,7 +49,6 @@
 
 ## 🔜 Upcoming
 
-- **[2026]** The final dataset will be released. Download will be available via a Google Form.
 <br>
 
 ## 🌍 Overview
